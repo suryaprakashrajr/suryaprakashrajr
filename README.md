@@ -1,20 +1,19 @@
-## Hi there 👋
-
 <!-- ================= HERO BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suryaprakashraj%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Java%20%2F%20Spring%20Boot%20%7C%20Software%20Engineering%20Intern%20Seeker&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suryaprakashraj%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%26%20Distributed%20Systems%20%7C%20Java%20%2F%20Spring%20Boot%20%7C%20Chennai%2C%20India&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
 <!-- ================= TYPING HEADER ================= -->
 <p align="center">
   <a href="https://github.com/suryaprakashrajr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Suryaprakashraj+R+%F0%9F%91%8B;Backend+Developer+%7C+Java+%2B+Spring+Boot;Building+scalable%2C+well-tested+APIs;Currently+seeking+a+Software+Engineering+Internship" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Suryaprakashraj+R+%F0%9F%91%8B;Backend+%2B+Distributed+Systems+Enthusiast;Java+%7C+Spring+Boot+%7C+Python+%7C+MySQL;Exploring+AWS+Cloud+%7C+Open+to+SWE+Internships" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/surya-prakashraj-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:suryaprakashrajr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-70A5FD?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=suryaprakashrajr&style=flat-square&color=70a5fd" alt="Profile views"/>
 </p>
 
@@ -28,20 +27,22 @@
 ```java
 public class SuryaprakashrajR {
 
-    private String name        = "Suryaprakashraj R";
-    private String degree      = "B.E. Computer Science and Design";
+    private String name        = "SURYAPRAKASHRAJ R";
+    private String location    = "Chennai, India";
+    private String degree      = "B.E. Computer Science and Design (Pre-Final Year)";
     private String college     = "Rajalakshmi Engineering College";
     private String[] stack     = {
-        "Java", "Spring Boot", "REST APIs", "Hibernate",
-        "MySQL", "Docker", "TCP/IP Sockets"
+        "Java", "Python", "Spring Boot", "REST APIs",
+        "MySQL", "TCP/IP Sockets", "Multithreading"
     };
     private String[] currentlyLearning = {
-        "System Design", "Advanced Spring Boot", "Cloud Fundamentals"
+        "AWS Cloud", "Distributed Systems", "System Design"
     };
-    private String funFact = "I built a Redis clone from scratch using raw TCP sockets!";
+    private String funFact = "I built a Redis-inspired in-memory database with a "
+                            + "multithreaded TCP server from scratch!";
 
     public String motto() {
-        return "Write code that is reliable, tested, and built to scale.";
+        return "Build scalable, well-tested, real-world applications.";
     }
 }
 ```
@@ -57,23 +58,26 @@ public class SuryaprakashrajR {
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
 **Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
 </p>
 
 **Cloud & DevOps**
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 </p>
 
 **Databases**
@@ -81,10 +85,12 @@ public class SuryaprakashrajR {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-**Tools**
+**Libraries & Tools**
 <p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
 <br/>
@@ -119,8 +125,26 @@ public class SuryaprakashrajR {
 
 <br/>
 
-<!-- ================= CERTIFICATIONS / EXPERIENCE ================= -->
-### 💼 Certifications & Programs
+<!-- ================= WORK EXPERIENCE ================= -->
+### 💼 Work Experience
+
+<details>
+<summary><b>Data Analyst Intern @ Geoinsyssoft</b> — May 2026 – Jun 2026</summary>
+<br/>
+
+> `Python` `Pandas` `NumPy` `Matplotlib`
+
+- Developed **Python-based analytical applications** to process retail sales and weather datasets using object-oriented programming principles.
+- Automated data cleaning, statistical analysis, and report generation with **Pandas** and **NumPy** to derive actionable business insights.
+- Built **data visualizations with Matplotlib** to analyze business trends, performance metrics, and weather statistics.
+- Improved code maintainability by implementing modular workflows, exception handling, and reusable components.
+
+</details>
+
+<br/>
+
+<!-- ================= CERTIFICATIONS ================= -->
+### 📜 Certifications
 
 <details>
 <summary><b>Git and GitHub</b></summary>
@@ -129,7 +153,6 @@ public class SuryaprakashrajR {
 > `Version Control` `Git` `GitHub`
 
 - Covered core version control workflows, branching strategies, and collaborative development practices.
-- Built practical familiarity with the Git/GitHub workflow used across all personal projects.
 
 </details>
 
@@ -147,10 +170,9 @@ public class SuryaprakashrajR {
 <summary><b>Goldman Sachs Controllers Virtual Experience Program (Forage)</b></summary>
 <br/>
 
-> `Fund Accounting` `Financial Controls` `Business Domain`
+> `Fund Accounting` `Financial Controls`
 
 - Completed a job-simulation program covering the foundations of Controllers and Fund Accounting.
-- Gained exposure to how engineering work supports financial operations in a large-scale organization.
 
 </details>
 
@@ -163,12 +185,12 @@ public class SuryaprakashrajR {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Redis Clone](https://github.com/suryaprakashrajr)** | Java · TCP Sockets · ConcurrentHashMap · File I/O · JUnit 5 | Redis-inspired in-memory key-value store supporting **multiple concurrent TCP clients**; thread-safe storage via `ConcurrentHashMap`; persistent File I/O for crash recovery; validated with comprehensive JUnit 5 test suite |
-| **[URL Shortener (Bitly Clone)](https://github.com/suryaprakashrajr)** | Java · Spring Boot · Spring Data JPA · Hibernate · MySQL · Docker · Swagger | Scalable backend URL-shortening service with REST APIs for creation, retrieval & redirection; modular layered architecture; centralized exception handling; **Dockerized** and documented via Swagger/OpenAPI |
+| **[Redis-Inspired In-Memory Key-Value Database](https://github.com/suryaprakashrajr)** | Java · Maven · TCP Sockets · Concurrent Programming · File I/O · JUnit 5 | Multithreaded TCP server supporting **concurrent client connections** with thread-safe request handling; Redis-like command processing with persistent storage; validated with comprehensive JUnit 5 test suite |
+| **[SignConnect: AI-Powered Accessible Video Platform](https://github.com/suryaprakashrajr)** *(Ongoing)* | HTML · CSS · JavaScript · WebRTC · PeerJS · MediaPipe Hands · Web Speech API | Peer-to-peer video calling with **live speech-to-text captioning** and **ISL gesture recognition** for Deaf, Hard-of-Hearing & non-verbal users; accessibility-first UI with high-contrast mode & visual notifications |
 
 </div>
 
-> 🔗 Project links point to the GitHub profile — update each with the actual repo URL once published.
+> 🔗 Update project links with the actual repository URLs once published.
 
 <br/>
 
@@ -179,6 +201,7 @@ public class SuryaprakashrajR {
 
 | | Achievement | Details |
 |---|---|---|
+| 💼 | Data Analyst Internship | Geoinsyssoft — May 2026 to Jun 2026, Python/Pandas/NumPy data pipelines |
 | 🔧 | Git and GitHub Certified | Version control & collaborative workflow fundamentals |
 | 🍃 | MongoDB Basics for Students | NoSQL database modeling & CRUD operations |
 | 🏦 | Goldman Sachs (Forage) Job Simulation | Foundations of Controllers and Fund Accounting |
@@ -203,9 +226,9 @@ public class SuryaprakashrajR {
 ### 📚 Currently Learning
 
 ```
-🧱 System Design         → Scalability, Load Balancing, Caching
-🍃 Advanced Spring Boot  → Microservices, Spring Security
-☁️  Cloud Fundamentals    → AWS Basics, Container Orchestration
+☁️  AWS Cloud             → EC2, S3, Cloud Fundamentals
+🌐 Distributed Systems   → Consistency, Fault Tolerance, Scaling
+🧱 System Design         → Load Balancing, Caching, Microservices
 ```
 
 <br/>
