@@ -102,9 +102,10 @@ May 2026 – June 2026
 
 ## 📫 Connect With Me
 
+- **Gmail:** [suryaprakashrajr@gmail.com]
 - **LinkedIn:** [Surya Prakashraj R](https://www.linkedin.com/in/surya-prakashraj-/)
 - **GitHub:** [suryaprakashrajr](https://github.com/suryaprakashrajr)
 
 ---
 
-⭐ I believe in learning by building, understanding systems from the fundamentals and continuously improving through practical engineering.
+
